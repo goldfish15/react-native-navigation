@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.graphics.Color;
 import androidx.annotation.Nullable;
 import androidx.annotation.RestrictTo;
-import androidx.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;

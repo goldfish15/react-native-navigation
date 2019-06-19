@@ -1,6 +1,6 @@
 package com.reactnativenavigation.playground;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.entria.views.RNViewOverflowPackage;
 import com.facebook.react.ReactNativeHost;

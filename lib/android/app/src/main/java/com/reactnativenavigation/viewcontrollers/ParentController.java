@@ -5,7 +5,7 @@ import androidx.annotation.CallSuper;
 import androidx.annotation.CheckResult;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.view.ViewPager;
+import androidx.viewpager.widget.ViewPager;
 import android.view.ViewGroup;
 
 import com.reactnativenavigation.parse.Options;

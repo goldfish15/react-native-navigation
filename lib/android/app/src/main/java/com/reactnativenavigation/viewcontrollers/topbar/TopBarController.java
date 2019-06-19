@@ -1,7 +1,7 @@
 package com.reactnativenavigation.viewcontrollers.topbar;
 
 import android.content.Context;
-import androidx.view.ViewPager;
+import androidx.viewpager.widget.ViewPager;
 import android.view.View;
 
 import com.reactnativenavigation.utils.CompatUtils;

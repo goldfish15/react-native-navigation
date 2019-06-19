@@ -3,7 +3,7 @@ package com.reactnativenavigation.viewcontrollers.button;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import androidx.annotation.NonNull;
-import androidx.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 import android.util.Log;
 import android.view.View;
 

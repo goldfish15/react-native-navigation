@@ -1,7 +1,7 @@
 package com.reactnativenavigation;
 
 import android.support.design.widget.*;
-import android.support.v7.app.*;
+import androidx.app.*;
 
 import com.facebook.react.common.*;
 
