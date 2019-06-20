@@ -1,7 +1,7 @@
 package com.reactnativenavigation.viewcontrollers.toptabs;
 
-import androidx.view.PagerAdapter;
-import androidx.view.ViewPager;
+import androidx.viewpager.widget.PagerAdapter;
+import androidx.viewpager.widget.ViewPager;
 import android.view.View;
 import android.view.ViewGroup;
 

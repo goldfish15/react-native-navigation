@@ -1,6 +1,6 @@
 package com.reactnativenavigation.presentation;
 
-import androidx.widget.DrawerLayout;
+import 	androidx.drawerlayout.widget.DrawerLayout;
 import android.view.Gravity;
 
 import com.reactnativenavigation.parse.Options;

@@ -3,7 +3,7 @@ package com.reactnativenavigation.presentation;
 import android.content.*;
 import android.graphics.drawable.*;
 import androidx.annotation.*;
-import androidx.content.*;
+import androidx.core.content.*;
 
 import com.reactnativenavigation.parse.*;
 import com.reactnativenavigation.utils.*;

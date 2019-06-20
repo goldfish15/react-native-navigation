@@ -2,7 +2,7 @@ package com.reactnativenavigation.views.toptabs;
 
 import android.content.Context;
 import android.graphics.Typeface;
-import android.support.design.widget.TabLayout;
+import com.google.android.material.tabs.TabLayout;
 import androidx.viewpager.widget.ViewPager;
 
 import com.reactnativenavigation.parse.params.Colour;

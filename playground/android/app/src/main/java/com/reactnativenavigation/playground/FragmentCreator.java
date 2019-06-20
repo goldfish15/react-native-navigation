@@ -1,6 +1,6 @@
 package com.reactnativenavigation.playground;
 
-import androidx.app.FragmentActivity;
+import androidx.fragment.app.FragmentActivity;
 
 import com.facebook.react.ReactInstanceManager;
 import com.reactnativenavigation.viewcontrollers.externalcomponent.ExternalComponent;
